@@ -1,4 +1,6 @@
 x=input("Enter the number\n")
+#long way
+'''
 y=len(x)
 x=int(x)
 a=int(input("Enter the digit\n"))
@@ -11,3 +13,7 @@ while i<y:
     x=int(x/10)
     i+=1
 print(count)
+'''
+#simple way(can be used to check frequency of any text)
+a=input("Enter the digit\n")
+print(x.count(a))
