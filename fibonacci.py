@@ -9,4 +9,3 @@ while i<n:
   b=x
   print(x)  
   i+=1
-
