@@ -1,2 +1,2 @@
-This is just me learning DSA concepts on Python
+This is just me learning DSA concepts
 # Practice
