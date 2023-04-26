@@ -39,5 +39,4 @@ int main()
         printf("%d\t",data1[a]);
         a++;
     }
-
 }
