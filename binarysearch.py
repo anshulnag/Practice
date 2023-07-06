@@ -15,7 +15,7 @@ def search(arr,y):
         if y<arr[mid]:
             end=mid-1
         elif y==arr[mid]:
-            return midS
+            return mid
         else:
             start=mid+1
     if start>end:
